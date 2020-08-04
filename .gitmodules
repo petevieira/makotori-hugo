@@ -1,0 +1,6 @@
+[submodule "cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = git@github.com:petevieira/cupper-hugo-theme.git
+[submodule "makotori"]
+	path = public
+	url = git@github.com:petevieira/makotori.git
