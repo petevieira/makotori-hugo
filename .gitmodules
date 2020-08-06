@@ -3,4 +3,4 @@
 	url = git@github.com:petevieira/cupper-hugo-theme.git
 [submodule "makotori"]
 	path = public
-	url = git@github.com:petevieira/makotori.git
+	url = git@github.com:petevieira/petevieira.github.io.git

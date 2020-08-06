@@ -34,6 +34,17 @@ Qigong has been shown to have benefits related to many bodily functions. Heart-b
         *   Elevated temperature in hand
         *   Elevated number of photons leaving palm during qigong.
 
+## Breathing
+*   Reverse abdominal breathing
+    * What should happen to chest cavity?
+        * I assume it should grow much in volume.
+    * What exactly happens in the abdomen? Which part is moving in or contacting up? What references points do we have?
+        * Need to tuck in butt (rotate butt downwards). Pull in the dantian (below the navel).
+    * Videos
+        * [Practice Abdominal Breathing by Mantak Chia](https://www.youtube.com/watch?v=unG5jJy6fyo)
+        * [Reverse Breathing -- Mingmen/Dantian](https://www.youtube.com/watch?v=kMwUqCufhOU)
+        * [Dantian Pull-In/Push Out "Breathing w/o Breathing" from Master Jou Lineage](https://www.youtube.com/watch?v=8zLwuA3VR8o)
+
 ## 八段锦 (Bāduànjǐn, Eight Brocade Exercise)
 
 ### 站式 (zhànshì)
