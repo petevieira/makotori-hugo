@@ -3,6 +3,7 @@ title = "Qigong (氣功)"
 weight = 5
 +++
 
+## Overview
 Qigong has been shown to have benefits related to many bodily functions. Heart-brain-breathing interactions research has shown evidence for the benefits of meditation and qigong type activities. Key ideas
 
 *   Meditation and qigong breathing increases heart variability
@@ -13,6 +14,11 @@ Qigong has been shown to have benefits related to many bodily functions. Heart-b
     *   Measurement devices
     *   Sources
         *   [1](https://www.drmueller-healthpsychology.com/heart_rate_variability.html)
+
+## Types
+* [八段錦 (Bāduànjǐn, Eight Brocade Exercise)]({{<relref "#八段锦-bāduànjǐn-eight-brocade-exercise">}})
+* [易筋經 (Yìjīnjīng, Tendon Changing Classic)]({{<relref "#yijin-jing-易筋經">}})
+* 混元氣功 (Hùnyuán Qìgōng, Origin Qigong)
 
 ## Research
 
@@ -36,10 +42,11 @@ Qigong has been shown to have benefits related to many bodily functions. Heart-b
 
 ## Breathing
 *   Reverse abdominal breathing
+	* Easiest position is Wuji (無極). Rotate pelvis back and let knee follow, bending slightly.
     * What should happen to chest cavity?
-        * I assume it should grow much in volume.
+        * I assume it shouldn't grow much in volume.
     * What exactly happens in the abdomen? Which part is moving in or contacting up? What references points do we have?
-        * Need to tuck in butt (rotate butt downwards). Pull in the dantian (below the navel).
+        * Pull in the dantian (below the navel).
     * Videos
         * [Practice Abdominal Breathing by Mantak Chia](https://www.youtube.com/watch?v=unG5jJy6fyo)
         * [Reverse Breathing -- Mingmen/Dantian](https://www.youtube.com/watch?v=kMwUqCufhOU)
@@ -106,9 +113,7 @@ Qigong has been shown to have benefits related to many bodily functions. Heart-b
     *   [八段锦说明](https://www.shuge.org/ebook/ba-duan-jin-ce/?print=pdf)
     *   [八段錦全方位能量活氧操](https://www.tari.gov.tw/df_ufiles/Personnel/%E5%85%AB%E6%AE%B5%E9%8C%A6-%E5%85%A8%E6%96%B9%E4%BD%8D%E8%83%BD%E9%87%8F%E6%B4%BB%E6%B0%A7%E6%93%8D.pdf)
 
-## My Understandings
-
-### Yijin Jing (易筋经)
+## Yijin Jing (易筋經)
 
 *   According to Damo Mitchell[<sup>1</sup>](#fn1)
     *   No exercises mentioned in the text.

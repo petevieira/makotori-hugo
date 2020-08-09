@@ -1,4 +1,4 @@
-baseURL: "http://petevieira.github.io/"
+baseURL: "https://petevieira.github.io/"
 languageCode: "en-us"
 title: "Makotori"
 theme: "cupper-hugo-theme"
