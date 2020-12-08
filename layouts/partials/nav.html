@@ -1,0 +1,24 @@
+<!-- sidebar start -->
+<aside class="mt0">
+  <ul id="patterns-list">
+    {{ range .Site.Sections }}
+      <li class="styleless-list" style="list-style: none;">
+        <a href="{{ .Permalink }}">
+          <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+            <use xlink:href="#bookmark"></use>
+          </svg>
+          <span>{{ .Name }}</span>
+        </a>
+        <ul class="mt0">
+          {{ range .Pages }}
+          <li style="margin-left: 1.5rem;">
+            <a href="{{ .Permalink }}">
+              {{ .Title }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </li>
+    {{ end }}
+  </ul>
+</aside>

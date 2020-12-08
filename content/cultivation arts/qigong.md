@@ -146,6 +146,86 @@ Qigong has been shown to have benefits related to many bodily functions. Heart-b
         *   Developing the huang (肓) without qi, which results in no power.
             *   Not sure how huang (肓) would even be developed without qi.
 
+## Hunyuan Qigong (混元气功 (Primordial Qigong))
+
+* Feng Zhiqiang (冯志强) is the founder
+* Reference: Zhiqiang, Feng, and Chen Zhonghua. "Hunyuan Qigong." (2001).
+* Exercises
+    0. Lower the Qi (气) and Close the Exercise
+        * Performed three times consecutively at the end of each Form (of the 12 forms)
+        * Similar to Lower the Qi (气) and Cleanse Internally except the eye and mind will lead the Qi (气) to the Middle Dantian (中丹田), not the Yongquan (涌泉)
+    1. Lower the Qi and cleanse internally
+        * Use the "Three Xing Retuning to One" method
+            1. Think about the Dantian (丹田) (Heart is the bravery Xing)
+            1. Gaze at the Dantian (丹田) (Eye is the sing Xing)
+            1. Listen to the Dantian (丹田) (Ear is the sensitivity Xing)
+        * Gradually you will reach the state of body and mind light and tranquil and the Wuji (无极) state of "the world and I" in non-existence.
+        * Induce the Qi (气) to rise:
+            * The eyes and mind lead the hands to induce the Qi (气) to rise up.
+        * Lower the Qi (气) to cleanse the organs:
+            * Continuously, induce the natural Hunyuan Qi (混元气) to enter into the body through XingGong (on top of the head), and to go down from top to the bottom gradually along the legs until the Qi (气) reaches Yongquan (涌泉 (middle of the ball of the foot acupoint)).
+        * In Wuji (无极) posture
+            * Tuck in chin
+            * Tongue to roof of mouth and upper teeth
+            * Mouth and teeth closed
+            * Empty chest and solidify stomach
+            * Loosen waist and tuck in buttocks
+            * Sink the shoulders and drop the elbows
+            * Loosen the wrists and open up the fingers
+            * Loosen the Kua (胯 (hips))
+            * Round the Dang (裆 (crotch))
+        * Forget about breathing
+        * Use only mind-intent, not force.
+        * When lowering the Qi (气) the mind must imagine that the natural Hunyuan Qi (混元气) and internal Hunyuan Qi (混元气) are combining into one. It is like frost and dew dripping down the body slowly. It is like steam bathing through the body from inside to outside.
+        * Function
+            1.
+                * Cleanse the internal organs
+                * Opening up the meridians
+                * Stretch the tendons and bones
+                * Rid of impurities and bring about clarity
+                * Nurture the organs
+                * Harmonize the organs
+                * Toning the three Jiao (三焦 (Triple Heater))
+                * Strengthen the body and nurture the Qi (气)
+            1.
+                * Loosen the Qi (气) and the body
+                * Separate the tendons from the bones
+                * Loosen the joints
+                * Loosen the skin and muscles and fascia
+            1.
+                * Nurture the ability to loosen into heaviness. Strengthen the standing post.
+                * Train the An () strength and Central Equilibrium strength in the 13 postures.
+    2. Gather The Qi (气) To The Three Dantian (丹田)
+        *
+
+## Hunyuan Taiji 24 Form (混元太极拳24式)
+    1. 起势
+        * 起势有四组动作，分别叫掤，擠，捋，按
+        * 开始时还有一个吸气松身。 下面我们来具体分解说明
+        * 先说一下预备式。
+        * 混元太极拳的预备式式两脚同肩宽，开立步站立。
+        * 周身放松，下颚微收，目光内敛，自然呼吸。
+        * 这个姿势也叫无极式站立。
+        * 起势开始是一个吸气松身的动作。
+        * 深吸气，同时两臂微微前摆，
+        * 呼气，同时松身松膝，兩膝微微屈蹲，两首后摆。
+        * 这是个过渡性的动作。
+        * 第一组动作： 掤
+            * 两臂缓慢上抬齐肩高。使用垂掌掌型，这是混元太极拳特有的掌型，用于导引放松。
+        * 第二组动作： 擠
+            * 接上动掤后两手拉回到胸側，这是換缓手；
+            * 然后手臂向胸前推出，用瓦垄掌，指尖斜向上；
+            * 然后放松下垂。这是第二组。
+        * 第三组动作： 捋
+            * 两手（）胸侧上提至头前上方，身体直立，这是缓手；
+            * 然后两手弧线下捋，落至大腿外侧。
+        * 第四组动作： 按
+            * 先是手臂缓手，走弧线至胸侧；然后沿胸侧下按，屈膝下落。
+            * 两手过胯成垂掌，也就是放松了，然后慢慢起身。
+        * 混元太极拳套路的起势是由一代太极宗师冯志强先生碓立的，一共有三种。
+
+
+
 * * *
 
 1.  Mitchell, Damo. 易筋經 · Yi Jin Jing (Changing the Tendon) Process Theory. [https://youtu.be/ZuA484T1CHM](https://youtu.be/ZuA484T1CHM).[↩︎](#fnref1)

@@ -7,15 +7,9 @@ params:
   hideHeaderLinks: false
   darkThemeAsDefault: false
   search: true
-
-menu:
-  nav:
-    - name: Home
-      url: /
-      weight: 1
-    - name: Cultivation Arts
-      url: /cultivation-arts/
-      weight: 2
+  toc: true
+  custom_js: ["js/custom.js"]
+sectionPagesMenu: "main"
 
 markup:
   defaultMarkdownHandler: goldmark
@@ -44,6 +38,4 @@ markup:
     noClasses: true
     style: monokai
     tabWidth: 4
-  tableOfContents:
-    endLevel: 6
-    startLevel: 2
+

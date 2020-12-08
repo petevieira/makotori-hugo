@@ -5,7 +5,7 @@ weight = 6
 
 * * *
 
-# Explanation
+## Explanation
 
 *   Unless specified otherwise, meditation is done indoors and everything else is done outdoors. Stretching varies between indoor and outdoor.
 *   The purpose of this journal is to track my efforts and progress, as well as give me a way to go back and know what I did, how long, how consistently, etc, as well as to help me reflect more on my efforts.
