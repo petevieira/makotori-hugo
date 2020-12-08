@@ -21,7 +21,11 @@
           {{ $base := ($.Page.File.LogicalName) }}
           {{ $anchorId := ($header | plainify | htmlEscape | urlize) }}
           {{ $href := delimit (slice $base $anchorId) "#" | string }}
-          <a href="{{ relref $.Page $href }}">
+          {{ if in $header "h2" }}
+            <a href="{{ relref $.Page $href }}" class="h2-item">
+          {{ else }}
+            <a href="{{ relref $.Page $href }}">
+          {{ end }}
               <li class="mt0">{{ $header | plainify | htmlEscape }}</li>
           </a>
           <!-- close list -->
