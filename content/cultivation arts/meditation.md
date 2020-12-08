@@ -26,10 +26,10 @@ weight = 4
 
 *   The purpose of insight meditation is to eliminate the Ten Fetters, which are the knots or obstructions in your mind. Very slowly, by observing every moment with awareness, you come to open these knots. The Ten Fetters are self-illusion [that is, the illusion of a separate self], doubt, attachment to rites and rituals, lust, ill-will, craving, craving for fine material existence, conceit, restlessness, ignorance. At each stage of enlightenment, slowly, one by one, some of the fetters are extinguished, until the fourth stage, or arahantship, when all the fetters are gone. The fetters are related to birth in the same way that oil feeds the light of a lamp. The fetters are like oil in your mind. As the oil becomes less and less, the light from the wick becomes less and less. Finally, when the oil is gone, the light is gone. Once they are extinguished, the cycle of rebirth ends. From this, you can understand that birth and rebirth are in your hands.[<sup>3</sup>](#fn3)
 
-## Lessons from Dipa Ma[<sup>4</sup>](#fn4)
+## Lessons from Dipa Ma
 
 1.  _Choose one meditation practice and stick with it “If you want to progress in meditation, stay with one technique.”_
-    *   For those beginning the spiritual journey, Dipa Ma was adamant about commitment to one style of meditation. Don’t give up, and don’t jump around from practice to practice. Find a technique that suits you, and keep going until you find your “edge,” the point where difficulties start to arise.
+    *   For those beginning the spiritual journey, Dipa Ma was adamant about commitment to one style of meditation. Don’t give up, and don’t jump around from practice to practice. Find a technique that suits you, and keep going until you find your “edge,” the point where difficulties start to arise.[<sup>4</sup>](#fn4)
     *   A common mistake many Western spiritual seekers make is to interpret difficulties as a problem with a particular practice. Then, when the going gets tough, the tough go “spiritual shopping.” From the vantage point of that uncomfortable edge, some other practice always looks better. “Maybe I should do Tibetan chanting . . . or Sufi dancing.” In fact, difficulties usually are a reliable sign that the practice is working.
 2.  _Meditate every day “Practice now. Don’t think you will do more later.”_
     *   Dipa Ma stated firmly that if you want peace, you must practice regularly. She insisted that students find time for formal meditation practice every day, even if only for five minutes. If that proved impossible, she advised, “At least when you are in bed at night, notice just one in-breath and one out-breath before you fall asleep.” Besides formal sitting on the cushion, Dipa Ma urged students to make every moment of their lives a meditation. Dipa Ma wouldn’t hear of this; she insisted that meditation is always possible, that it is not separate from life. “If you are busy, then busyness is the meditation,” she told him. “When you do calculations, know that you are doing calculations. Meditation is to know what you are doing. If you are rushing to the office, then you should be mindful of ‘rushing.’ When you are eating, putting on your shoes, your socks, your clothes, you must be mindful. It is all meditation! Even when you are cutting your nails, put your mind there. Know that you are cutting your nails.” For Dipa Ma, mindfulness wasn’t something she did, it was who she was—all the time. The best attitude with which to approach this practice, she said, is with trust and willingness. When your mind wanders, simply begin again. Dipa Ma made it clear that there is nothing wrong with lapses of mindfulness. “It happens to everyone. It is not a permanent problem. Don’t worry, just start again. Always maintain your effort, patience, and faith.” Even when you lose energy and motivation, she advised, just notice that, then shift to another mindfulness practice—walking, awareness in ordinary activity, or sitting—in which more motivation is present.
@@ -96,9 +96,9 @@ impact of a new emotional self-management program on stress, emotions, heart rat
 
 ### Coherence
 
-#### Psychophysiological coherence mode[<sup>18</sup>](#fn18)
+#### Psychophysiological coherence mode
 
-*   Ordered harmonious patterns of physiological activity.
+*   Ordered harmonious patterns of physiological activity.[<sup>18</sup>](#fn18)
 *   The heart's central role in the generation and transmission of system-wide information essential to the body's function as a coherent whole:
     *   The heart is the most consistent and dynamic generator of rhythmic information patterns in the body
     *   Its intrinsic nervous system is a sophisticated information encoding and processing center that operates independently of the brain.
@@ -127,16 +127,16 @@ Journal of Social and Evolutionary Systems, 21 (1), 29-80\. [<sup>21</sup>](#fn2
 
 ## Basic Buddhism
 
-### The Four Noble Truths[<sup>24</sup>](#fn24)
+### The Four Noble Truths
 
-1.  **The First Noble Truth**: is that life is full of unhappiness. No one can stay happy for long. We become sad when we cannot get what we want or when we lose something that we prize, or a loved one dies.
+1.  **The First Noble Truth**: is that life is full of unhappiness. No one can stay happy for long. We become sad when we cannot get what we want or when we lose something that we prize, or a loved one dies.[<sup>24</sup>](#fn24)
 2.  **The Second Noble Truth**: is that suffering and unhappiness are a result of unfulfilled desire. No matter how good or how much we receive, we never seem to have enough. And we certainly don’t want things we do not like.
 3.  **The Third Noble Truth**: is that we can end suffering, but we have to give up wanting what we don’t have and stop being envious of what others have. This is not easy to do. It takes a good deal of diligence and self-discipline.
 4.  **The Fourth Noble Truth**: is the Buddha taught that the way to conquer feelings of greed and selfishness is to follow the Eightfold Path.
 
-### The Eightfold Path[<sup>25</sup>](#fn25)
+### The Eightfold Path
 
-1.  **Right View**: Developing wisdom by understanding the Four Noble Truths.
+1.  **Right View**: Developing wisdom by understanding the Four Noble Truths.[<sup>25</sup>](#fn25)
 2.  **Right Thoughts**: Thinking kind thoughts about others, beginning with ourselves.
 3.  **Right Speech**: Speaking in a kind way, free from lies and angry words.
 4.  **Right Conduct**: Protecting the rights and feelings of others--also caring for the natural environment.

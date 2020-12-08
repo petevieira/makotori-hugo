@@ -8,7 +8,8 @@ params:
   darkThemeAsDefault: false
   search: true
   toc: true
-  custom_js: ["js/custom.js"]
+  customJs: ["js/custom.js"]
+  customCss: ["css/custom.css"]
 sectionPagesMenu: "main"
 
 markup:
