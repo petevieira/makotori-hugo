@@ -10,7 +10,7 @@
           <span>{{ .Name }}</span>
         </a>
         <ul class="mt0">
-          {{ range .Pages }}
+          {{ range .Pages.ByTitle }}
           <li style="margin-left: 1.5rem;">
             <a href="{{ .Permalink }}">
               {{ .Title }}

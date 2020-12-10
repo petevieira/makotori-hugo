@@ -3,6 +3,8 @@ title = "Wing Chun (詠春拳)"
 weight = 2
 +++
 
+* * *
+
 [Glossary of Wing Chun terms](https://en.wikipedia.org/wiki/Glossary_of_Wing_Chun_terms)
 
 # Wooden Dummy

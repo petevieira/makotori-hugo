@@ -3,6 +3,8 @@ title = "Measurement"
 weight = 1
 +++
 
+* * *
+
 # Measurement Devices for Monitoring Body Signals
 
 ## BITalino

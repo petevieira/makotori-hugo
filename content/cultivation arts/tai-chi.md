@@ -3,6 +3,8 @@ title = "Tai Chi (太極)"
 weight = 1
 +++
 
+* * *
+
 # Questions
 
 ## How do we define Taiji?

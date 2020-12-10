@@ -3,6 +3,8 @@ title = "Qigong (氣功)"
 weight = 5
 +++
 
+* * *
+
 ## Overview
 Qigong has been shown to have benefits related to many bodily functions. Heart-brain-breathing interactions research has shown evidence for the benefits of meditation and qigong type activities. Key ideas
 

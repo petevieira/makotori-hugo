@@ -3,6 +3,8 @@ title = "Meditation (冥想)"
 weight = 4
 +++
 
+* * *
+
 ## Goals of Meditation
 
 ### Absence of Self

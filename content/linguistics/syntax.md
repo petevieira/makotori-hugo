@@ -3,6 +3,8 @@ title = "Syntax"
 weight = 6
 +++
 
+* * *
+
 # Hierarchical Organization of Language
 * Mental computations of language:
   * performed on a hierarchically organized structure, not on a linear string of words
