@@ -5,6 +5,8 @@ weight = 6
 
 * * *
 
+Source for most of this: <a href="#ref1">[1]</a>
+
 # Hierarchical Organization of Language
 * Mental computations of language:
   * performed on a hierarchically organized structure, not on a linear string of words
@@ -52,7 +54,7 @@ What about these substrings:
     - A: \*[**novel to**]
 
 **"cohesive substrings" = "consituents"**
-## Notes
+### Notes
 - Constituency tests work fine but they are unidirectionl:
   - If they succeed, then the substring is a constituent,
   - But if they fail, then either
@@ -60,7 +62,7 @@ What about these substrings:
     - or it is a constituent, but failed the test for a different reason
 - So H2 doesn't capture the idea that some substrings form constituents, and some don't.
 
-## Organization of Constituents
+# Organization of Constituents
 - Constituents are always nested, i.e., fully contained in another constituent.
   - Partially overlapping constituents don't exist: <sup>\*</sup> [word 1 [[word 2] word 3]]
 
@@ -81,7 +83,12 @@ What about these substrings:
 - **Maximal projection**: The highest relevant projection of a property that stop projecting to the next node up. A.k.a. "phrase".
   - When b stops projects, we have a "bP" or a "b phrase".
 - **Head**: A terminal node, i.e., at the bottom of the syntax tree (end of branch), with no children.
-
+- **Complement of X<sup>0</sup>**: sister of X<sup>0</sup>.
+- **Specifier of XP**: sister of highest X'
+- **Adjunct**: a merged constituent that's neither the complement nor the specifier
+- **Subject of sentence**: specifier of the IP
+- **Object of sentence**: complement of the V<sup>0</sup>
+- **Complementizer**: lexical items that introduce sentences (CP, C<sup>0</sup>, C') (e.g., *that*, *if*, *because*, *since*)
 
 ## Branching
 So far trees we've seen have been "binary branching". This means that every mother has at most two daughters. Let's adopt the hypothesis that branching is only ever binary.
@@ -114,8 +121,51 @@ How are syntactic trees built:
 - A consitutent *α* is headed by a terminal node *x* iff *x* determines the properties of *α*.
 
 ### Representations
-- Head: X<sup>0</sup>
+- Head: X<sup>0</sup> of a
 - Maximal Projection: XP
 - All intermediate projections: X<sup>'</sup>
 
 ## X-bar Schema
+- Proper represention of a terminal node: XP - X<sup>0</sup> - word
+- What is the top-most node of a tree marked. i.e., What head is the sentence a maximal project of?
+  - We'll accept that the sentence is the maximal project of a head that carries the features for tense and subject agreement.
+  - We'll call this head **I<sup>0</sup>** for *Inflection*
+- Axioms for the position that a sentence is the projection of an inflectional head I<sup>0</sup>
+  1. Inflectional data such as tense and agreement should be represented as a head separate from the verb.
+  1. This inflectional head is the head of the entire sentence.
+
+## Do-insertion
+Examples of separation of Verb and Tense/Agreement
+- "The cat does not play with the dog."
+- "The cat did not go home."
+- "Did the cat go home."
+
+"Do" is a dummy word inserted to carry tense and agreement, but doesn't contibute any meaning.
+  - Seems like it does in questions
+
+So to represent the tense/agreement, we can either
+  1. produce the verb and inflectional material together and separate them sometimes, or
+  2. produce the verb and inflectional material separately and sometimes bring them together
+
+Conclusion from Noam Chomsky in the 50s went with option 2.
+
+## Embedded Sentences - that
+A sentence can itself be the object of a verb:
+- "The owner knows [that the cat doesn't like water]"
+
+or the subject of a sentence:
+- "[That the cat doesn't like water] is irrelevant to the owner"
+
+What do we do with **that** in these sentences?
+- Lexical items that introduce sentences are called **complementizers**
+  - e.g., *that*, *if*, *because*, *since*
+  - These are denoted with CP, C<sup>0</sup>, C'
+
+## Theta-roles
+
+
+* * *
+
+## References
+
+<a id="ref1">1. Sabine Iatridou. 24.902 Language and its Structure II: Syntax. Fall 2015. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.</a>

@@ -1773,9 +1773,5 @@ Perhaps when one is enlightened to a certain degree they hold these feelings and
 
 *   Rest of oat groats, rice, lentils, veggies
 
-# 2020-08-06
-## Distractions
-* What is it that prevents me from remaining in a calm and quiet atmosphere?
-* What is it that triggers a desire to watch movies/anime?
 
 
