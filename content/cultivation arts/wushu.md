@@ -8,6 +8,61 @@ weight = 4
 # Wushu training: basic to advanced
 https://www.youtube.com/watch?v=Hq4udwWW2xI
 
+## Warm-up Order ([link](https://jiayoowushu.com/warm-up-stretching-for-wushu/))
+1. In-place dynamic stretching
+	1. High knees, butt kicks, squats, etc
+1. Static stretching
+	1. Stances, splits, etc
+1. Ballistic stretching
+	1. Bounce stretches
+1. Dynamic stretching (running/walking)
+
+## Joints Warm-up
+1. Neck rotations
+1. Shoulder shrug rotations
+1. Shoulder arm rotations vertical together backward
+1. Shoulder arm rotations vertical together foreward
+1. Shoulder arm rotations vertical opposite
+1. Shoulder arm rotations horizontal
+1. Shoulder stretch one arm up in front, one up in back
+1. Side bend stretch
+1. Pelvis rotations
+1. Knee rotations
+1. Hip rotations one leg at a time
+
+## Dynamic Stretching
+1. 
+
+## Warm-up
+1. Calf raises
+1. Stances routine
+	1. Horse stance, Drop stance, Bow Stance
+	1. repeat 20 times, alternating sides
+
+## Stretch Kicks ([link](https://www.youtube.com/watch?v=xch2dAjKPKQ&list=PLx2oPdmVUFfbtLPGhTICqTEmJYFXazBM0&index=45))
+- Front stretch kick
+- Side stretch kick
+- Inside circle kick
+- Outside circle kick
+
+## Stances ([link](https://www.youtube.com/watch?v=sZMiIYixFjI), [link](https://www.youtube.com/watch?v=VtatnjEk-TQ) [link](https://www.youtube.com/watch?v=XTSLh6r0iXI))
+- Horse stance (马步)
+- Bow stance (弓步)
+- Drop stance (仆步)
+- Empty stance (虚步)
+- Rest stance (歇步)
+
+## Static Stretches
+
+## Ballistic Stretches
+
+## Kicks & Sweeps
+- Front snap kick
+- Side kick
+- Turning side kick
+- Back sweep ([link](https://www.youtube.com/watch?v=Z5sogLUNlyY&list=PLx2oPdmVUFfbtLPGhTICqTEmJYFXazBM0&index=36))
+- Front sweep
+
 ## Warm-Ups
 High Knees
 Two Foot Hopping
@@ -78,7 +133,41 @@ Step Left Forward Swing Right Forward While Bending Left And Falling Sideways On
 Front Roll, Then Jump Up And Do Graceful High Front Roll
 Side Rols
 
-## Acrobatics
+## Gymnastics ([link](https://www.flashmavi.com/gymnastics))
+- Handstands
+	- Handstand
+	- Handstand Turn
+	- Handstand to Bridge
+	- Straddle Handstand
+- Rolls
+	- Front Roll
+	- Dive Roll
+	- Back Roll
+	- Back Roll to Handstand
+- Bridges & Walkovers
+	- Bridge
+	- Back-bend to Bridge
+	- Front Walkover
+	- Back Walkover
+- Handsprings & Cartwheels
+	- Cartwheel
+	- Round-off
+	- Headspring
+	- Front Handspring
+	- Front Handspring Stepout
+	- Flyspring
+	- Back Handspring
+	- Back Handspring Stepout
+	- Aerial Cartwheel
+- Flips
+	- Front Flip
+	- Front Flip Back Crash
+	- Back Tucked
+- Aerials
+	- Buttfly
+	- Cartwheel with no hands
+	- Front Handspring with no hands
+
 Cartwheels
 Forward Handspring
 
